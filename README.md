@@ -31,14 +31,14 @@ https://github.com/CynthiaWKamau/RESTAPI.git
  -Log in with the superuser credentials (As shown below)
 
  3. Creating a Superuser (Admin)
- -Run 'python manage.py createsuperuser' to create a superuser
+ -**Run 'python manage.py createsuperuser' to create a superuser**
  -Enter the required details to create a superuser
  Where one will be prompted to enter:
- -Username: Enter a username for the superuser
- -Email: Enter an email for the superuser
- -Password: Enter a password for the superuser
- -Password (again): Confirm the password
- -Press Enter to confirm the details
+ -**Username: Enter a username for the superuser**
+ -**Email: Enter an email for the superuser**
+ -**Password: Enter a password for the superuser**
+ -**Password (again): Confirm the password**
+ -**Press Enter to confirm the details**
 
  ## Testing the API Endpoints
  # API Endpoints
@@ -52,7 +52,7 @@ https://github.com/CynthiaWKamau/RESTAPI.git
  -Create client.py file
  -Run 'python client.py' to test the API endpoints
 
- 
+
 
 
 
