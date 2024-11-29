@@ -31,9 +31,10 @@ https://github.com/CynthiaWKamau/RESTAPI.git
  -Log in with the superuser credentials (As shown below)
 
  3. Creating a Superuser (Admin)
- 1. **Run 'python manage.py createsuperuser' to create a superuser**
 
- 2. Enter the required details to create a superuser
++ **Run 'python manage.py createsuperuser' to create a superuser**
+
+ +  Enter the required details to create a superuser
  Where one will be prompted to enter:
 
  -**Username: Enter a username for the superuser**
