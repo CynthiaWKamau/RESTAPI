@@ -48,4 +48,11 @@ https://github.com/CynthiaWKamau/RESTAPI.git
  - **PUT /api/products/{id}/**: Updates a product by id
  - **DELETE /api/products/{id}/**: Deletes a product by id
 
+ ## Testing with client.py
+ -Create client.py file
+ -Run 'python client.py' to test the API endpoints
+
  
+
+
+
